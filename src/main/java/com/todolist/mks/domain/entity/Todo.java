@@ -19,4 +19,5 @@ public class Todo {
 	private Long tid;
 	String title;
 	String content;
+	
 }
