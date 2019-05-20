@@ -10,3 +10,18 @@
 	2.2 maven build를 통해 해당 프로젝트를 빌드한다
 	2.3 jar 파일이 만들어진다
 	2.4 jar 파일을 jar xxxx.jar 실행한다
+### 사용 스택
+
+```
+- 프론트엔드
+	1. HTML, CSS, JavaScript
+	2. React.js
+	3. BootStrap
+- 백엔드
+	1. Java
+	2. Spring Boot
+	3. JPA
+	4. Maria DB
+- 기타
+	1. AWS EC2 배포
+```
